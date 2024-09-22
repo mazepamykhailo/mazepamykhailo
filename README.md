@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mazepamykhailo&label=Profile%20views&color=0e75b6&style=flat" alt="mazepamykhailo" /> </p>
 
 - 💬 Ask me about **SPA frameworks (React, Vue.js, Angular, Next.js, Nuxt.js, etc) and Express.js / Django**
-- 🔭 Full-stack developer with 8+ years of experience designing and building scalable, high-performance web and mobile applications
+- 🔭 Full-stack developer with 7+ years of experience designing and building scalable, high-performance web and mobile applications
 - 👍 Experienced in DevOps, and Cloud infrastructure, especially with AWS and Azure
 - 📫 How to reach me **mazepamykhailo@gmail.com**
 
