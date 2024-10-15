@@ -1,12 +1,25 @@
 <h1 align="center">Senior Full Stack Developer</h1>
 <h3 align="center">Experienced web/mobile full-stack developer with a proven track record of delivering high-quality, scalable applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mazepamykhailo&label=Profile%20views&color=0e75b6&style=flat" alt="mazepamykhailo" /> </p>
-
 - 💬 Ask me about **SPA frameworks (React, Vue.js, Angular, Next.js, Nuxt.js, etc) and Express.js / Django**
 - 🔭 Full-stack developer with 7+ years of experience designing and building scalable, high-performance web and mobile applications
 - 👍 Experienced in DevOps, and Cloud infrastructure, especially with AWS and Azure
 - 📫 How to reach me **mazepamykhailo@gmail.com**
+
+## 🏆 GitHub Statistics
+<p align="center">
+  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=mazepamykhailo&hide_border=true&theme=nightowl" />
+</p>
+<p align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=mazepamykhailo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazepamykhailo&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+</p>
+
+<hr/>
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=mazepamykhailo&style=plastic&label=Views"><img>
+</p> 
 
 ## 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
@@ -126,14 +139,6 @@
     </td>
   </tr>
 </table>
-  
-## Github Stats
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mazepamykhailo&langs_count=8&layout=compact&theme=light&include_all_commits=true&line_height=27">
-  <p align="center" style="margin-bottom: 10px;">
-      <img src="https://github-profile-trophy.vercel.app/?username=mazepamykhailo&column=7&theme=light"/>
-  </p>
-</p>
 
 ## Contacts
 <div align="center"> 
