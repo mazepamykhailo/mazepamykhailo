@@ -1,7 +1,7 @@
 <h1 align="center">Senior Full Stack Developer</h1>
 <h3 align="center">Experienced web/mobile full-stack developer with a proven track record of delivering high-quality, scalable applications.</h3>
 
-- 💬 Ask me about **SPA frameworks (React, Vue.js, Angular, Next.js, Nuxt.js, etc) and Express.js / Django**
+- 💬 Ask me about **SPA frameworks (React, Vue.js, Angular, Next.js, Nuxt.js, etc) and Node.js and python framewroks (django, FastAPI, flask)**
 - 🔭 Full-stack developer with 7+ years of experience designing and building scalable, high-performance web and mobile applications
 - 👍 Experienced in DevOps, and Cloud infrastructure, especially with AWS and Azure
 - 📫 How to reach me **mazepamykhailo@gmail.com**
